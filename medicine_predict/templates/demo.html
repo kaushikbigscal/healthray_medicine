@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Multiple Symptoms Selection</title>
+<style>
+    /* CSS styles */
+    .symptom-list {
+        list-style-type: none;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap; /* Wrap items to new line when space is insufficient */
+    }
+    .symptom-list li {
+        cursor: pointer;
+        margin: 5px;
+        border: 1px solid #ccc;
+        padding: 10px;
+        min-width: 150px; /* Minimum width of each box */
+    }
+    .symptom-list li.selected {
+        background-color: #cceeff;
+    }
+    .selected-symptoms {
+        margin-top: 10px;
+        border: 1px solid #ccc;
+        padding: 5px;
+    }
+</style>
+</head>
+<body>
+<h2>Select Symptoms</h2>
+<ul class="symptom-list">
+    <li onclick="toggleSelection(this)">Watering from left eye</li>
+    <li onclick="toggleSelection(this)">Difficulty in closing left eye</li>
+    <li onclick="toggleSelection(this)">Persistent headache</li>
+    <li onclick="toggleSelection(this)">Nausea</li>
+    <li onclick="toggleSelection(this)">Fatigue</li>
+    <li onclick="toggleSelection(this)">Fever</li>
+    <li onclick="toggleSelection(this)">Cough</li>
+    <li onclick="toggleSelection(this)">Shortness of breath</li>
+    <li onclick="toggleSelection(this)">Joint pain</li>
+    <li onclick="toggleSelection(this)">Muscle aches</li>
+    <li onclick="toggleSelection(this)">Loss of taste or smell</li>
+    <!-- Add more symptoms here -->
+</ul>
+<div class="selected-symptoms">
+    <input type="hidden" id="selectedSymptomsInput">
+    <p>Selected Symptoms:</p>
+    <ul id="selectedSymptomsList"></ul>
+</div>
+
+<script>
+    // JavaScript code
+    function toggleSelection(symptom) {
+        const selectedSymptomsList = document.getElementById('selectedSymptomsList');
+        const symptomText = symptom.textContent;
+
+        if (symptom.classList.contains('selected')) {
+            // If symptom is already selected, remove it from the list
+            symptom.classList.remove('selected');
+            const selectedSymptomItem = document.querySelector(`#selectedSymptomsList li[data-text="${symptomText}"]`);
+            selectedSymptomItem.remove();
+        } else {
+            // If symptom is not selected, add it to the list
+            symptom.classList.add('selected');
+            const li = document.createElement('li');
+            li.textContent = symptomText;
+            li.setAttribute('data-text', symptomText);
+            selectedSymptomsList.appendChild(li);
+        }
+
+        updateSelectedSymptoms();
+    }
+
+    function updateSelectedSymptoms() {
+        const selectedSymptoms = document.querySelectorAll('.symptom-list .selected');
+        const selectedSymptomsInput = document.getElementById('selectedSymptomsInput');
+
+        const symptomsArray = [];
+        selectedSymptoms.forEach(symptom => {
+            const symptomText = symptom.textContent;
+            symptomsArray.push(symptomText);
+        });
+
+        selectedSymptomsInput.value = JSON.stringify(symptomsArray);
+    }
+</script>
+</body>
+</html>

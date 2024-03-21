@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <title>Medicine Predictor</title>
+    <style>
+        /* CSS styles */
+        .symptom-list {
+            list-style-type: none;
+            padding: 0;
+            display: flex;
+            flex-wrap: wrap;
+            /* Wrap items to new line when space is insufficient */
+        }
+
+        .symptom-list li {
+            cursor: pointer;
+            margin: 5px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            min-width: 150px;
+            /* Minimum width of each box */
+        }
+
+        .symptom-list li.selected {
+            background-color: #cceeff;
+        }
+
+        .selected-symptoms {
+            margin-top: 10px;
+            border: 1px solid #ccc;
+            padding: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">Medicine Predictor</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">About Us</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">Contact Us</a>
+                </li>
+            </ul>
+            <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+            </form>
+        </div>
+    </nav>
+
+
+    <div class="container">
+        <h2 class="text-center mt-3">Medicine Predictor</h2>
+        <h2>Select Symptoms</h2>
+        <ul class="symptom-list">
+            <li onclick="toggleSelection(this)">Watering from left eye</li>
+            <li onclick="toggleSelection(this)">Difficulty in closing left eye</li>
+            <li onclick="toggleSelection(this)">Persistent headache</li>
+            <li onclick="toggleSelection(this)">Nausea</li>
+            <li onclick="toggleSelection(this)">Fatigue</li>
+            <li onclick="toggleSelection(this)">Fever</li>
+            <li onclick="toggleSelection(this)">Cough</li>
+            <li onclick="toggleSelection(this)">Shortness of breath</li>
+            <li onclick="toggleSelection(this)">Joint pain</li>
+            <li onclick="toggleSelection(this)">Muscle aches</li>
+            <li onclick="toggleSelection(this)">Loss of taste or smell</li>
+            <!-- Add more symptoms here -->
+        </ul>
+        <form action="/" method="POST">
+            <div class="selected-symptoms">
+                <input type="hidden" id="selectedSymptomsInput">
+                <p>Selected Symptoms:</p>
+                <ul id="selectedSymptomsList"></ul>
+            </div><br>
+            <button class="btn btn-success">Submit</button>
+        </form><br>
+        <button class="btn btn-success" id="displayData">Submit</button>
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+
+    <script>
+
+        // JavaScript code
+        function toggleSelection(symptom) {
+            const selectedSymptomsList = document.getElementById('selectedSymptomsList');
+            const symptomText = symptom.textContent;
+
+            if (symptom.classList.contains('selected')) {
+                // If symptom is already selected, remove it from the list
+                symptom.classList.remove('selected');
+                const selectedSymptomItem = document.querySelector(`#selectedSymptomsList li[data-text="${symptomText}"]`);
+                selectedSymptomItem.remove();
+            } else {
+                // If symptom is not selected, add it to the list
+                symptom.classList.add('selected');
+                const li = document.createElement('li');
+                li.textContent = symptomText;
+                li.setAttribute('data-text', symptomText);
+                selectedSymptomsList.appendChild(li);
+            }
+
+            updateSelectedSymptoms();
+        }
+
+        function updateSelectedSymptoms() {
+            const selectedSymptoms = document.querySelectorAll('.symptom-list .selected');
+            const selectedSymptomsInput = document.getElementById('selectedSymptomsInput');
+
+            const symptomsArray = [];
+            selectedSymptoms.forEach(symptom => {
+                const symptomText = symptom.textContent;
+                symptomsArray.push(symptomText);
+            });
+
+            selectedSymptomsInput.value = JSON.stringify(symptomsArray);
+        }
+
+        var selectedSymptomsArray = [];
+
+        document.getElementById('displayData').addEventListener("click", () => {
+            selectedSymptomsArray = [];
+            const selectedSymptomItems = document.querySelectorAll('.symptom-list .selected');
+            selectedSymptomItems.forEach(item => {
+                selectedSymptomsArray.push(item.textContent.trim());
+            });
+            console.log(selectedSymptomsArray);
+        });
+
+
+    </script>
+</body>
+
+</html>

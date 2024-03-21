@@ -1,0 +1,1813 @@
+{
+  "status": 200,
+  "statusState": "success",
+  "data": {
+    "doctor": 72821,
+    "doctor_name": "Foram Panchal",
+    "data": [
+      {
+        "id": 49140,
+        "Complains/Symptoms": [
+          {
+            "id": 128861,
+            "dynamic_topic_id": 55156,
+            "name": "Fever"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 128709,
+            "standard_medicine_id": 79696,
+            "medicine_name": "Paracetamol",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 128710,
+            "standard_medicine_id": 79697,
+            "medicine_name": "DOLOCIDE KP 50 MG/650 MG TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 49141,
+        "Complains/Symptoms": [
+          {
+            "id": 128864,
+            "dynamic_topic_id": 55156,
+            "name": "Fever"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 49142,
+        "Complains/Symptoms": [
+          {
+            "id": 128868,
+            "dynamic_topic_id": 55158,
+            "name": "Bodyache"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 128870,
+            "dynamic_topic_id": 55318,
+            "name": "To come with reports"
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 128711,
+            "standard_medicine_id": 81254,
+            "medicine_name": "DABUR ASHOKARISHTA",
+            "medicine_type": "SYP"
+          },
+          {
+            "id": 128712,
+            "standard_medicine_id": 79697,
+            "medicine_name": "DOLOCIDE KP 50 MG/650 MG TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "To come with reports",
+        "Diagnosis": [
+          {
+            "id": 128869,
+            "dynamic_topic_id": 55317,
+            "name": "MIGRAINE"
+          }
+        ]
+      },
+      {
+        "id": 49152,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 128713,
+            "standard_medicine_id": 81253,
+            "medicine_name": "DABUR HAJMOLA MAHA AAM IMLI CANDY",
+            "medicine_type": "CANDIES"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 50510,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 129327,
+            "standard_medicine_id": 79697,
+            "medicine_name": "DOLOCIDE KP 50 MG/650 MG TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 129328,
+            "standard_medicine_id": 79696,
+            "medicine_name": "Paracetamol",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 52526,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 129331,
+            "standard_medicine_id": 81280,
+            "medicine_name": "DABUR SITOPALADI CHURNA",
+            "medicine_type": "POW"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 52558,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 129340,
+            "standard_medicine_id": 81254,
+            "medicine_name": "DABUR ASHOKARISHTA",
+            "medicine_type": "SYP"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 52624,
+        "Complains/Symptoms": [
+          {
+            "id": 130850,
+            "dynamic_topic_id": 55165,
+            "name": "Nausea"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 129345,
+            "standard_medicine_id": 81253,
+            "medicine_name": "DABUR HAJMOLA MAHA AAM IMLI CANDY",
+            "medicine_type": "CANDIES"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 52666,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 145585,
+            "standard_medicine_id": 123608,
+            "medicine_name": "YOURS JAMUN KARELA NEEM JUICE",
+            "medicine_type": "LIQ"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 52717,
+        "Complains/Symptoms": [
+          {
+            "id": 131147,
+            "dynamic_topic_id": 55164,
+            "name": "Giddiness"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 129436,
+            "standard_medicine_id": 81254,
+            "medicine_name": "DABUR ASHOKARISHTA",
+            "medicine_type": "SYP"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 53358,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 129445,
+            "standard_medicine_id": 81253,
+            "medicine_name": "DABUR HAJMOLA MAHA AAM IMLI CANDY",
+            "medicine_type": "CANDIES"
+          },
+          {
+            "id": 129446,
+            "standard_medicine_id": 81253,
+            "medicine_name": "DABUR HAJMOLA MAHA AAM IMLI CANDY",
+            "medicine_type": "CANDIES"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 53415,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 129456,
+            "standard_medicine_id": 79697,
+            "medicine_name": "DOLOCIDE KP 50 MG/650 MG TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 53416,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 129461,
+            "standard_medicine_id": 79697,
+            "medicine_name": "DOLOCIDE KP 50 MG/650 MG TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 53804,
+        "Complains/Symptoms": [
+          {
+            "id": 133273,
+            "dynamic_topic_id": 55165,
+            "name": "Nausea"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 144474,
+            "dynamic_topic_id": 87815,
+            "name": "GB02.1 Orchitis, epididymitis or epididymo-orchitis without abscess"
+          }
+        ]
+      },
+      {
+        "id": 54695,
+        "Complains/Symptoms": [
+          {
+            "id": 133293,
+            "dynamic_topic_id": 55164,
+            "name": "Giddiness"
+          },
+          {
+            "id": 133299,
+            "dynamic_topic_id": 55161,
+            "name": "Frequency of stool"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 129974,
+            "standard_medicine_id": 81253,
+            "medicine_name": "DABUR HAJMOLA MAHA AAM IMLI CANDY",
+            "medicine_type": "CANDIES"
+          },
+          {
+            "id": 129975,
+            "standard_medicine_id": 81253,
+            "medicine_name": "DABUR HAJMOLA MAHA AAM IMLI CANDY",
+            "medicine_type": "CANDIES"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 54699,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 129920,
+            "standard_medicine_id": 79696,
+            "medicine_name": "Paracetamol",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 54976,
+        "Complains/Symptoms": [
+          {
+            "id": 134028,
+            "dynamic_topic_id": 55201,
+            "name": "Difficulty in closing left eye"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 130608,
+            "standard_medicine_id": 79697,
+            "medicine_name": "DOLOCIDE KP 50 MG/650 MG TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 130609,
+            "standard_medicine_id": 79696,
+            "medicine_name": "Paracetamol",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 55018,
+        "Complains/Symptoms": [
+          {
+            "id": 134420,
+            "dynamic_topic_id": 55156,
+            "name": "Fever"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 130610,
+            "standard_medicine_id": 79697,
+            "medicine_name": "DOLOCIDE KP 50 MG/650 MG TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 130611,
+            "standard_medicine_id": 79696,
+            "medicine_name": "Paracetamol",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": ", Drinke more water.",
+        "Diagnosis": [
+          {
+            "id": 134438,
+            "dynamic_topic_id": 55313,
+            "name": "Cvstroke"
+          }
+        ]
+      },
+      {
+        "id": 55019,
+        "Complains/Symptoms": [
+          {
+            "id": 134258,
+            "dynamic_topic_id": 55158,
+            "name": "Bodyache"
+          },
+          {
+            "id": 134259,
+            "dynamic_topic_id": 55156,
+            "name": "Fever"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 56977,
+        "Complains/Symptoms": [
+          {
+            "id": 143502,
+            "dynamic_topic_id": 87219,
+            "name": "Test, allergy scratch"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 57128,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 143697,
+            "dynamic_topic_id": 87815,
+            "name": "GB02.1 Orchitis, epididymitis or epididymo-orchitis without abscess"
+          }
+        ]
+      },
+      {
+        "id": 57135,
+        "Complains/Symptoms": [
+          {
+            "id": 143742,
+            "dynamic_topic_id": 55156,
+            "name": "Fever"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "Dm",
+        "Diagnosis": [
+          {
+            "id": 143740,
+            "dynamic_topic_id": 87833,
+            "name": "Developmental dyspraxia"
+          },
+          {
+            "id": 143741,
+            "dynamic_topic_id": 87815,
+            "name": "GB02.1 Orchitis, epididymitis or epididymo-orchitis without abscess"
+          }
+        ]
+      },
+      {
+        "id": 57137,
+        "Complains/Symptoms": [
+          {
+            "id": 143743,
+            "dynamic_topic_id": 55156,
+            "name": "Fever"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 143744,
+            "dynamic_topic_id": 87815,
+            "name": "GB02.1 Orchitis, epididymitis or epididymo-orchitis without abscess"
+          }
+        ]
+      },
+      {
+        "id": 57186,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 144004,
+            "dynamic_topic_id": 87815,
+            "name": "GB02.1 Orchitis, epididymitis or epididymo-orchitis without abscess"
+          },
+          {
+            "id": 144006,
+            "dynamic_topic_id": 87833,
+            "name": "Developmental dyspraxia"
+          }
+        ]
+      },
+      {
+        "id": 57412,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 144471,
+            "dynamic_topic_id": 87833,
+            "name": "Developmental dyspraxia"
+          },
+          {
+            "id": 144472,
+            "dynamic_topic_id": 87815,
+            "name": "GB02.1 Orchitis, epididymitis or epididymo-orchitis without abscess"
+          },
+          {
+            "id": 144473,
+            "dynamic_topic_id": 55317,
+            "name": "MIGRAINE"
+          }
+        ]
+      },
+      {
+        "id": 57415,
+        "Complains/Symptoms": [
+          {
+            "id": 144515,
+            "dynamic_topic_id": 55156,
+            "name": "Fever"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 57462,
+        "Complains/Symptoms": [
+          {
+            "id": 144479,
+            "dynamic_topic_id": 55156,
+            "name": "Fever"
+          },
+          {
+            "id": 144480,
+            "dynamic_topic_id": 55181,
+            "name": "Belching"
+          },
+          {
+            "id": 144481,
+            "dynamic_topic_id": 55184,
+            "name": "Easy fatigue"
+          },
+          {
+            "id": 144482,
+            "dynamic_topic_id": 55177,
+            "name": "Joint pain"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 57477,
+        "Complains/Symptoms": [
+          {
+            "id": 144581,
+            "dynamic_topic_id": 55156,
+            "name": "Fever"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 57486,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "Dear dr. this patient can be posted for surgery with an average risk of anaesthesia and procedure, Adv - admission under care of cardiologist",
+        "Diagnosis": [
+          {
+            "id": 144617,
+            "dynamic_topic_id": 87846,
+            "name": "XN4QG Yersinia"
+          },
+          {
+            "id": 144618,
+            "dynamic_topic_id": 87855,
+            "name": "QA04.Y Request for expert evidence"
+          },
+          {
+            "id": 144619,
+            "dynamic_topic_id": 87839,
+            "name": "XM8G23 Benzonatate"
+          }
+        ]
+      },
+      {
+        "id": 57507,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 144663,
+            "dynamic_topic_id": 87846,
+            "name": "XN4QG Yersinia"
+          },
+          {
+            "id": 144664,
+            "dynamic_topic_id": 87855,
+            "name": "QA04.Y Request for expert evidence"
+          },
+          {
+            "id": 144665,
+            "dynamic_topic_id": 87839,
+            "name": "XM8G23 Benzonatate"
+          }
+        ]
+      },
+      {
+        "id": 57598,
+        "Complains/Symptoms": [
+          {
+            "id": 145951,
+            "dynamic_topic_id": 55169,
+            "name": "Running nose"
+          },
+          {
+            "id": 145952,
+            "dynamic_topic_id": 55160,
+            "name": "Abdominal pain"
+          },
+          {
+            "id": 145953,
+            "dynamic_topic_id": 55162,
+            "name": "Anorexia"
+          },
+          {
+            "id": 145954,
+            "dynamic_topic_id": 87219,
+            "name": "Test, allergy scratch"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 143865,
+            "standard_medicine_id": 123608,
+            "medicine_name": "YOURS JAMUN KARELA NEEM JUICE",
+            "medicine_type": "LIQ"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 144945,
+            "dynamic_topic_id": 87855,
+            "name": "QA04.Y Request for expert evidence"
+          },
+          {
+            "id": 144946,
+            "dynamic_topic_id": 87846,
+            "name": "XN4QG Yersinia"
+          },
+          {
+            "id": 144947,
+            "dynamic_topic_id": 87839,
+            "name": "XM8G23 Benzonatate"
+          }
+        ]
+      },
+      {
+        "id": 58142,
+        "Complains/Symptoms": [
+          {
+            "id": 146279,
+            "dynamic_topic_id": 55156,
+            "name": "Fever"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 146292,
+            "dynamic_topic_id": 55318,
+            "name": "To come with reports"
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 143742,
+            "standard_medicine_id": 79696,
+            "medicine_name": "Paracetamol",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "To come with reports",
+        "Diagnosis": [
+          {
+            "id": 146290,
+            "dynamic_topic_id": 87815,
+            "name": "GB02.1 Orchitis, epididymitis or epididymo-orchitis without abscess"
+          }
+        ]
+      },
+      {
+        "id": 58192,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 143776,
+            "standard_medicine_id": 81253,
+            "medicine_name": "DABUR HAJMOLA MAHA AAM IMLI CANDY",
+            "medicine_type": "CANDIES"
+          },
+          {
+            "id": 143777,
+            "standard_medicine_id": 81253,
+            "medicine_name": "DABUR HAJMOLA MAHA AAM IMLI CANDY",
+            "medicine_type": "CANDIES"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 146349,
+            "dynamic_topic_id": 87855,
+            "name": "QA04.Y Request for expert evidence"
+          },
+          {
+            "id": 146350,
+            "dynamic_topic_id": 87848,
+            "name": "5A11 Type 2 diabetes mellitus"
+          },
+          {
+            "id": 146351,
+            "dynamic_topic_id": 87829,
+            "name": "XH79X8 RAEB"
+          },
+          {
+            "id": 146352,
+            "dynamic_topic_id": 87228,
+            "name": "1A63 Positive Wassermann test"
+          }
+        ]
+      },
+      {
+        "id": 59443,
+        "Complains/Symptoms": [
+          {
+            "id": 148823,
+            "dynamic_topic_id": 55174,
+            "name": "Cough with whitish expectoration"
+          },
+          {
+            "id": 148825,
+            "dynamic_topic_id": 55182,
+            "name": "Dyspnoea"
+          },
+          {
+            "id": 148826,
+            "dynamic_topic_id": 55200,
+            "name": "Asymmetrical smile"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 148988,
+            "dynamic_topic_id": 121424,
+            "name": "Tear gas poisoning"
+          },
+          {
+            "id": 148989,
+            "dynamic_topic_id": 55318,
+            "name": "To come with reports"
+          },
+          {
+            "id": 148992,
+            "dynamic_topic_id": 122046,
+            "name": "Tartar"
+          }
+        ],
+        "Prescription/Rx": [],
+        "notes": "testing general advice Tear gas poisoning, To come with reports, Tear gas poisoning",
+        "Diagnosis": [
+          {
+            "id": 148831,
+            "dynamic_topic_id": 87238,
+            "name": "GB02.0 Abscess of testis"
+          },
+          {
+            "id": 148832,
+            "dynamic_topic_id": 87224,
+            "name": "des"
+          }
+        ]
+      },
+      {
+        "id": 59645,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "HD009A CT guided percutaneous FNAC, BM002C Criteria 3: % Total Body Surface Area Burns (TBSA): 25-40 %; Includes\r\n% TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",
+        "Diagnosis": []
+      },
+      {
+        "id": 59646,
+        "Complains/Symptoms": [
+          {
+            "id": 149026,
+            "dynamic_topic_id": 55161,
+            "name": "Frequency of stool"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 149022,
+            "dynamic_topic_id": 122052,
+            "name": "Test, carcinoembryonic antigen"
+          },
+          {
+            "id": 149025,
+            "dynamic_topic_id": 55318,
+            "name": "To come with reports"
+          }
+        ],
+        "Prescription/Rx": [],
+        "notes": "testing ipd treatment, HD009A CT guided percutaneous FNAC, ER003A Animal bites (Excluding Snake Bite)",
+        "Diagnosis": []
+      },
+      {
+        "id": 59855,
+        "Complains/Symptoms": [
+          {
+            "id": 149479,
+            "dynamic_topic_id": 55174,
+            "name": "Cough with whitish expectoration"
+          },
+          {
+            "id": 149480,
+            "dynamic_topic_id": 55182,
+            "name": "Dyspnoea"
+          },
+          {
+            "id": 149481,
+            "dynamic_topic_id": 55200,
+            "name": "Asymmetrical smile"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "testing general advice Tear gas poisoning, To come with reports, Tear gas poisoning",
+        "Diagnosis": [
+          {
+            "id": 149486,
+            "dynamic_topic_id": 87238,
+            "name": "GB02.0 Abscess of testis"
+          },
+          {
+            "id": 149487,
+            "dynamic_topic_id": 87224,
+            "name": "des"
+          }
+        ]
+      },
+      {
+        "id": 59903,
+        "Complains/Symptoms": [
+          {
+            "id": 149461,
+            "dynamic_topic_id": 55175,
+            "name": "Nasal blockage"
+          },
+          {
+            "id": 149463,
+            "dynamic_topic_id": 55169,
+            "name": "Running nose"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 149460,
+            "dynamic_topic_id": 55320,
+            "name": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles."
+          },
+          {
+            "id": 149504,
+            "dynamic_topic_id": 122712,
+            "name": "Teaspoon"
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 145114,
+            "standard_medicine_id": 123608,
+            "medicine_name": "YOURS JAMUN KARELA NEEM JUICE",
+            "medicine_type": "LIQ"
+          },
+          {
+            "id": 145115,
+            "standard_medicine_id": 81254,
+            "medicine_name": "DABUR ASHOKARISHTA",
+            "medicine_type": "SYP"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 59967,
+        "Complains/Symptoms": [],
+        "General Advice": [
+          {
+            "id": 149625,
+            "dynamic_topic_id": 55320,
+            "name": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles."
+          }
+        ],
+        "Prescription/Rx": [],
+        "notes": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles.",
+        "Diagnosis": [
+          {
+            "id": 149622,
+            "dynamic_topic_id": 87224,
+            "name": "des"
+          },
+          {
+            "id": 149624,
+            "dynamic_topic_id": 87238,
+            "name": "GB02.0 Abscess of testis"
+          }
+        ]
+      },
+      {
+        "id": 59968,
+        "Complains/Symptoms": [],
+        "General Advice": [
+          {
+            "id": 149628,
+            "dynamic_topic_id": 55320,
+            "name": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles."
+          }
+        ],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 149627,
+            "dynamic_topic_id": 87224,
+            "name": "des"
+          },
+          {
+            "id": 149629,
+            "dynamic_topic_id": 87238,
+            "name": "GB02.0 Abscess of testis"
+          }
+        ]
+      },
+      {
+        "id": 59969,
+        "Complains/Symptoms": [],
+        "General Advice": [
+          {
+            "id": 149697,
+            "dynamic_topic_id": 55320,
+            "name": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles."
+          }
+        ],
+        "Prescription/Rx": [],
+        "notes": "Dm",
+        "Diagnosis": [
+          {
+            "id": 149693,
+            "dynamic_topic_id": 87224,
+            "name": "des"
+          },
+          {
+            "id": 149694,
+            "dynamic_topic_id": 87238,
+            "name": "GB02.0 Abscess of testis"
+          }
+        ]
+      },
+      {
+        "id": 59970,
+        "Complains/Symptoms": [],
+        "General Advice": [
+          {
+            "id": 149633,
+            "dynamic_topic_id": 55320,
+            "name": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles."
+          }
+        ],
+        "Prescription/Rx": [],
+        "notes": "Tartar",
+        "Diagnosis": [
+          {
+            "id": 149630,
+            "dynamic_topic_id": 87238,
+            "name": "GB02.0 Abscess of testis"
+          },
+          {
+            "id": 149632,
+            "dynamic_topic_id": 87224,
+            "name": "des"
+          }
+        ]
+      },
+      {
+        "id": 60011,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 145189,
+            "standard_medicine_id": 123608,
+            "medicine_name": "YOURS JAMUN KARELA NEEM JUICE",
+            "medicine_type": "LIQ"
+          },
+          {
+            "id": 145190,
+            "standard_medicine_id": 81254,
+            "medicine_name": "DABUR ASHOKARISHTA",
+            "medicine_type": "SYP"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 60030,
+        "Complains/Symptoms": [],
+        "General Advice": [
+          {
+            "id": 149702,
+            "dynamic_topic_id": 55320,
+            "name": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles."
+          }
+        ],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 149699,
+            "dynamic_topic_id": 87238,
+            "name": "GB02.0 Abscess of testis"
+          },
+          {
+            "id": 149701,
+            "dynamic_topic_id": 87224,
+            "name": "des"
+          }
+        ]
+      },
+      {
+        "id": 60031,
+        "Complains/Symptoms": [],
+        "General Advice": [
+          {
+            "id": 149712,
+            "dynamic_topic_id": 55320,
+            "name": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles."
+          }
+        ],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 149709,
+            "dynamic_topic_id": 87224,
+            "name": "des"
+          },
+          {
+            "id": 149711,
+            "dynamic_topic_id": 87238,
+            "name": "GB02.0 Abscess of testis"
+          }
+        ]
+      },
+      {
+        "id": 60093,
+        "Complains/Symptoms": [],
+        "General Advice": [
+          {
+            "id": 149981,
+            "dynamic_topic_id": 55320,
+            "name": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles."
+          },
+          {
+            "id": 149983,
+            "dynamic_topic_id": 55331,
+            "name": "Eat light food item."
+          }
+        ],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 149982,
+            "dynamic_topic_id": 87226,
+            "name": "1A07 Typhoid fever"
+          }
+        ]
+      },
+      {
+        "id": 60094,
+        "Complains/Symptoms": [],
+        "General Advice": [
+          {
+            "id": 149849,
+            "dynamic_topic_id": 55320,
+            "name": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles."
+          },
+          {
+            "id": 149850,
+            "dynamic_topic_id": 55331,
+            "name": "Eat light food item."
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 145228,
+            "standard_medicine_id": 123608,
+            "medicine_name": "YOURS JAMUN KARELA NEEM JUICE",
+            "medicine_type": "LIQ"
+          }
+        ],
+        "notes": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles., Eat light food item.",
+        "Diagnosis": [
+          {
+            "id": 149848,
+            "dynamic_topic_id": 87226,
+            "name": "1A07 Typhoid fever"
+          }
+        ]
+      },
+      {
+        "id": 60169,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "To come with reports",
+        "Diagnosis": []
+      },
+      {
+        "id": 60171,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "To come with reports",
+        "Diagnosis": [
+          {
+            "id": 150175,
+            "dynamic_topic_id": 55317,
+            "name": "MIGRAINE"
+          }
+        ]
+      },
+      {
+        "id": 60483,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 145453,
+            "standard_medicine_id": 123608,
+            "medicine_name": "YOURS JAMUN KARELA NEEM JUICE",
+            "medicine_type": "LIQ"
+          },
+          {
+            "id": 145454,
+            "standard_medicine_id": 81254,
+            "medicine_name": "DABUR ASHOKARISHTA",
+            "medicine_type": "SYP"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 60513,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 150922,
+            "dynamic_topic_id": 55317,
+            "name": "MIGRAINE"
+          }
+        ]
+      },
+      {
+        "id": 60646,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 151180,
+            "dynamic_topic_id": 87238,
+            "name": "GB02.0 Abscess of testis"
+          }
+        ]
+      },
+      {
+        "id": 60889,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 145988,
+            "standard_medicine_id": 81254,
+            "medicine_name": "DABUR ASHOKARISHTA",
+            "medicine_type": "SYP"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 60990,
+        "Complains/Symptoms": [
+          {
+            "id": 151760,
+            "dynamic_topic_id": 55158,
+            "name": "Bodyache"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 61057,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 146057,
+            "standard_medicine_id": 96401,
+            "medicine_name": "CUST",
+            "medicine_type": "YU"
+          },
+          {
+            "id": 146058,
+            "standard_medicine_id": 123607,
+            "medicine_name": "GNC MEGA MEN TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 61062,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 146025,
+            "standard_medicine_id": 79696,
+            "medicine_name": "Paracetamol",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 61119,
+        "Complains/Symptoms": [
+          {
+            "id": 151968,
+            "dynamic_topic_id": 55166,
+            "name": "Constipation"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 151977,
+            "dynamic_topic_id": 87855,
+            "name": "QA04.Y Request for expert evidence"
+          },
+          {
+            "id": 151978,
+            "dynamic_topic_id": 87228,
+            "name": "1A63 Positive Wassermann test"
+          }
+        ]
+      },
+      {
+        "id": 61126,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 146730,
+            "standard_medicine_id": 79696,
+            "medicine_name": "Paracetamol",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 61138,
+        "Complains/Symptoms": [
+          {
+            "id": 152108,
+            "dynamic_topic_id": 55184,
+            "name": "Easy fatigue"
+          },
+          {
+            "id": 152109,
+            "dynamic_topic_id": 55160,
+            "name": "Abdominal pain"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 152121,
+            "dynamic_topic_id": 55331,
+            "name": "Eat light food item."
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 146055,
+            "standard_medicine_id": 81253,
+            "medicine_name": "DABUR HAJMOLA MAHA AAM IMLI CANDY",
+            "medicine_type": "CANDIES"
+          },
+          {
+            "id": 146056,
+            "standard_medicine_id": 81253,
+            "medicine_name": "DABUR HAJMOLA MAHA AAM IMLI CANDY",
+            "medicine_type": "CANDIES"
+          }
+        ],
+        "notes": "Eat light food item.",
+        "Diagnosis": [
+          {
+            "id": 152117,
+            "dynamic_topic_id": 55317,
+            "name": "MIGRAINE"
+          },
+          {
+            "id": 152118,
+            "dynamic_topic_id": 87846,
+            "name": "XN4QG Yersinia"
+          }
+        ]
+      },
+      {
+        "id": 61140,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 152123,
+            "dynamic_topic_id": 87847,
+            "name": "1F23 yeast infection"
+          },
+          {
+            "id": 152124,
+            "dynamic_topic_id": 87839,
+            "name": "XM8G23 Benzonatate"
+          }
+        ]
+      },
+      {
+        "id": 61312,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 152432,
+            "dynamic_topic_id": 87848,
+            "name": "5A11 Type 2 diabetes mellitus"
+          },
+          {
+            "id": 152433,
+            "dynamic_topic_id": 87833,
+            "name": "Developmental dyspraxia"
+          }
+        ]
+      },
+      {
+        "id": 61434,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 146698,
+            "standard_medicine_id": 79696,
+            "medicine_name": "Paracetamol",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 61469,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 146695,
+            "standard_medicine_id": 96401,
+            "medicine_name": "CUST",
+            "medicine_type": "YU"
+          },
+          {
+            "id": 146696,
+            "standard_medicine_id": 81254,
+            "medicine_name": "DABUR ASHOKARISHTA",
+            "medicine_type": "SYP"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 61508,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 146699,
+            "standard_medicine_id": 79696,
+            "medicine_name": "Paracetamol",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 61696,
+        "Complains/Symptoms": [
+          {
+            "id": 153253,
+            "dynamic_topic_id": 55179,
+            "name": "Edema"
+          },
+          {
+            "id": 153254,
+            "dynamic_topic_id": 55173,
+            "name": "Backache"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 147532,
+            "standard_medicine_id": 81280,
+            "medicine_name": "DABUR SITOPALADI CHURNA",
+            "medicine_type": "POW"
+          },
+          {
+            "id": 147533,
+            "standard_medicine_id": 145026,
+            "medicine_name": "DEFICURE 300 TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 147534,
+            "standard_medicine_id": 155877,
+            "medicine_name": "TRIOMEGA SOFT GELATIN CAPSULE",
+            "medicine_type": "CAP"
+          },
+          {
+            "id": 147535,
+            "standard_medicine_id": 79696,
+            "medicine_name": "Paracetamol",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 61996,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 148782,
+            "standard_medicine_id": 81280,
+            "medicine_name": "DABUR SITOPALADI CHURNA",
+            "medicine_type": "POW"
+          },
+          {
+            "id": 148783,
+            "standard_medicine_id": 145026,
+            "medicine_name": "DEFICURE 300 TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 148784,
+            "standard_medicine_id": 155877,
+            "medicine_name": "TRIOMEGA SOFT GELATIN CAPSULE",
+            "medicine_type": "CAP"
+          },
+          {
+            "id": 148785,
+            "standard_medicine_id": 79696,
+            "medicine_name": "Paracetamol",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 65139,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 151740,
+            "standard_medicine_id": 81254,
+            "medicine_name": "DABUR ASHOKARISHTA",
+            "medicine_type": "SYP"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 65578,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 152579,
+            "standard_medicine_id": 81254,
+            "medicine_name": "DABUR ASHOKARISHTA",
+            "medicine_type": "SYP"
+          },
+          {
+            "id": 152580,
+            "standard_medicine_id": 123607,
+            "medicine_name": "GNC MEGA MEN TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 152581,
+            "standard_medicine_id": 145026,
+            "medicine_name": "DEFICURE 300 TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 65661,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 152683,
+            "standard_medicine_id": 145026,
+            "medicine_name": "DEFICURE 300 TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 152684,
+            "standard_medicine_id": 155877,
+            "medicine_name": "TRIOMEGA SOFT GELATIN CAPSULE",
+            "medicine_type": "CAP"
+          },
+          {
+            "id": 152685,
+            "standard_medicine_id": 79696,
+            "medicine_name": "Paracetamol",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 152686,
+            "standard_medicine_id": 79697,
+            "medicine_name": "DOLOCIDE KP 50 MG/650 MG TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 152687,
+            "standard_medicine_id": 166352,
+            "medicine_name": "TARGIT-H 40 MG TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 152688,
+            "standard_medicine_id": 166353,
+            "medicine_name": "KARBOCHECK 50MG TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 152689,
+            "standard_medicine_id": 166354,
+            "medicine_name": "HAIRONIC MAN TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 152690,
+            "standard_medicine_id": 166355,
+            "medicine_name": "RATIO 10MG TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 65663,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 152630,
+            "standard_medicine_id": 79697,
+            "medicine_name": "DOLOCIDE KP 50 MG/650 MG TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 152631,
+            "standard_medicine_id": 79696,
+            "medicine_name": "Paracetamol",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 152632,
+            "standard_medicine_id": 123607,
+            "medicine_name": "GNC MEGA MEN TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 152633,
+            "standard_medicine_id": 145026,
+            "medicine_name": "DEFICURE 300 TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 152634,
+            "standard_medicine_id": 155877,
+            "medicine_name": "TRIOMEGA SOFT GELATIN CAPSULE",
+            "medicine_type": "CAP"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 69454,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 156768,
+            "standard_medicine_id": 123608,
+            "medicine_name": "YOURS JAMUN KARELA NEEM JUICE",
+            "medicine_type": "LIQ"
+          },
+          {
+            "id": 156769,
+            "standard_medicine_id": 145026,
+            "medicine_name": "DEFICURE 300 TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 69458,
+        "Complains/Symptoms": [],
+        "General Advice": [
+          {
+            "id": 162583,
+            "dynamic_topic_id": 55331,
+            "name": "Eat light food item."
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 156783,
+            "standard_medicine_id": 81254,
+            "medicine_name": "DABUR ASHOKARISHTA",
+            "medicine_type": "SYP"
+          },
+          {
+            "id": 156784,
+            "standard_medicine_id": 123607,
+            "medicine_name": "GNC MEGA MEN TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 156785,
+            "standard_medicine_id": 79697,
+            "medicine_name": "DOLOCIDE KP 50 MG/650 MG TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "Eat light food item.",
+        "Diagnosis": [
+          {
+            "id": 162578,
+            "dynamic_topic_id": 87815,
+            "name": "GB02.1 Orchitis, epididymitis or epididymo-orchitis without abscess"
+          }
+        ]
+      },
+      {
+        "id": 69858,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 156935,
+            "standard_medicine_id": 123608,
+            "medicine_name": "YOURS JAMUN KARELA NEEM JUICE",
+            "medicine_type": "LIQ"
+          },
+          {
+            "id": 156936,
+            "standard_medicine_id": 123608,
+            "medicine_name": "YOURS JAMUN KARELA NEEM JUICE",
+            "medicine_type": "LIQ"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 69859,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 156937,
+            "standard_medicine_id": 123608,
+            "medicine_name": "YOURS JAMUN KARELA NEEM JUICE",
+            "medicine_type": "LIQ"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 70580,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 159554,
+            "standard_medicine_id": 123607,
+            "medicine_name": "GNC MEGA MEN TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 159555,
+            "standard_medicine_id": 81253,
+            "medicine_name": "DABUR HAJMOLA MAHA AAM IMLI CANDY",
+            "medicine_type": "CANDIES"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 71807,
+        "Complains/Symptoms": [
+          {
+            "id": 167747,
+            "dynamic_topic_id": 55174,
+            "name": "Cough with whitish expectoration"
+          },
+          {
+            "id": 167748,
+            "dynamic_topic_id": 55158,
+            "name": "Bodyache"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": []
+      }
+    ]
+  }
+}

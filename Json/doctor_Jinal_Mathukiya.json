@@ -1,0 +1,1346 @@
+{
+  "status": 200,
+  "statusState": "success",
+  "data": {
+    "doctor": 77257,
+    "doctor_name": "Jinal Mathukiya",
+    "data": [
+      {
+        "id": 53373,
+        "Complains/Symptoms": [
+          {
+            "id": 131604,
+            "dynamic_topic_id": 63274,
+            "name": "Bodyache"
+          },
+          {
+            "id": 131605,
+            "dynamic_topic_id": 63272,
+            "name": "Fever"
+          },
+          {
+            "id": 131606,
+            "dynamic_topic_id": 63273,
+            "name": "Headache"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 131607,
+            "dynamic_topic_id": 63490,
+            "name": "To come with reports"
+          }
+        ],
+        "Prescription/Rx": [],
+        "notes": "To come with reports",
+        "Diagnosis": []
+      },
+      {
+        "id": 53394,
+        "Complains/Symptoms": [
+          {
+            "id": 131608,
+            "dynamic_topic_id": 63319,
+            "name": "Watering from left eye"
+          },
+          {
+            "id": 131609,
+            "dynamic_topic_id": 63317,
+            "name": "Difficulty in closing left eye"
+          },
+          {
+            "id": 131610,
+            "dynamic_topic_id": 63318,
+            "name": "Drooping of left angle of mouth"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 131612,
+            "dynamic_topic_id": 63538,
+            "name": "Take more liquid-juice -salty beverages. sit down or lie down immediately when you feel dizzy (do not try to stand or walk)."
+          },
+          {
+            "id": 131613,
+            "dynamic_topic_id": 63492,
+            "name": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles."
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 129452,
+            "standard_medicine_id": 94720,
+            "medicine_name": "QSIRI-L TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 129453,
+            "standard_medicine_id": 94722,
+            "medicine_name": "SWADESHI NEEM GILOY RAS",
+            "medicine_type": "LIQ"
+          },
+          {
+            "id": 129454,
+            "standard_medicine_id": 94722,
+            "medicine_name": "SWADESHI NEEM GILOY RAS",
+            "medicine_type": "LIQ"
+          }
+        ],
+        "notes": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles., Take more liquid-juice -salty beverages. sit down or lie down immediately when you feel dizzy (do not try to stand or walk).",
+        "Diagnosis": []
+      },
+      {
+        "id": 53405,
+        "Complains/Symptoms": [
+          {
+            "id": 131622,
+            "dynamic_topic_id": 63279,
+            "name": "Gen. weakness"
+          },
+          {
+            "id": 131623,
+            "dynamic_topic_id": 63304,
+            "name": "Fever with rigor"
+          },
+          {
+            "id": 131624,
+            "dynamic_topic_id": 63309,
+            "name": "Throat pain"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 129457,
+            "standard_medicine_id": 94720,
+            "medicine_name": "QSIRI-L TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 129458,
+            "standard_medicine_id": 94722,
+            "medicine_name": "SWADESHI NEEM GILOY RAS",
+            "medicine_type": "LIQ"
+          },
+          {
+            "id": 129459,
+            "standard_medicine_id": 94721,
+            "medicine_name": "LONARD 250MG TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 129460,
+            "standard_medicine_id": 94719,
+            "medicine_name": "MAGNUS NUTRITION GAIN FAST POWDER CHOCOLATE BLAST",
+            "medicine_type": "POW"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 53450,
+        "Complains/Symptoms": [
+          {
+            "id": 131657,
+            "dynamic_topic_id": 63303,
+            "name": "Stomatitis"
+          },
+          {
+            "id": 131658,
+            "dynamic_topic_id": 63299,
+            "name": "Difficulty in passing urine"
+          },
+          {
+            "id": 131659,
+            "dynamic_topic_id": 63310,
+            "name": "Gabharaman"
+          },
+          {
+            "id": 131661,
+            "dynamic_topic_id": 63300,
+            "name": "Easy fatigue"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 131660,
+            "dynamic_topic_id": 63493,
+            "name": "Drinke more water."
+          },
+          {
+            "id": 131662,
+            "dynamic_topic_id": 63492,
+            "name": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles."
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 129521,
+            "standard_medicine_id": 94720,
+            "medicine_name": "QSIRI-L TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 129522,
+            "standard_medicine_id": 94719,
+            "medicine_name": "MAGNUS NUTRITION GAIN FAST POWDER CHOCOLATE BLAST",
+            "medicine_type": "POW"
+          },
+          {
+            "id": 129523,
+            "standard_medicine_id": 94721,
+            "medicine_name": "LONARD 250MG TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 129524,
+            "standard_medicine_id": 94721,
+            "medicine_name": "LONARD 250MG TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles., Drinke more water.",
+        "Diagnosis": []
+      },
+      {
+        "id": 53451,
+        "Complains/Symptoms": [
+          {
+            "id": 131664,
+            "dynamic_topic_id": 63279,
+            "name": "Gen. weakness"
+          },
+          {
+            "id": 131666,
+            "dynamic_topic_id": 63284,
+            "name": "Cough"
+          },
+          {
+            "id": 131667,
+            "dynamic_topic_id": 63319,
+            "name": "Watering from left eye"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 131670,
+            "dynamic_topic_id": 63493,
+            "name": "Drinke more water."
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 129525,
+            "standard_medicine_id": 94722,
+            "medicine_name": "SWADESHI NEEM GILOY RAS",
+            "medicine_type": "LIQ"
+          },
+          {
+            "id": 129526,
+            "standard_medicine_id": 94721,
+            "medicine_name": "LONARD 250MG TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 129527,
+            "standard_medicine_id": 94719,
+            "medicine_name": "MAGNUS NUTRITION GAIN FAST POWDER CHOCOLATE BLAST",
+            "medicine_type": "POW"
+          }
+        ],
+        "notes": "Drinke more water.",
+        "Diagnosis": []
+      },
+      {
+        "id": 53453,
+        "Complains/Symptoms": [
+          {
+            "id": 131671,
+            "dynamic_topic_id": 63280,
+            "name": "Giddiness"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 129528,
+            "standard_medicine_id": 94722,
+            "medicine_name": "SWADESHI NEEM GILOY RAS",
+            "medicine_type": "LIQ"
+          },
+          {
+            "id": 129529,
+            "standard_medicine_id": 94720,
+            "medicine_name": "QSIRI-L TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 53958,
+        "Complains/Symptoms": [
+          {
+            "id": 132673,
+            "dynamic_topic_id": 63304,
+            "name": "Fever with rigor"
+          },
+          {
+            "id": 132674,
+            "dynamic_topic_id": 63289,
+            "name": "Backache"
+          },
+          {
+            "id": 132675,
+            "dynamic_topic_id": 63317,
+            "name": "Difficulty in closing left eye"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 132679,
+            "dynamic_topic_id": 63492,
+            "name": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles."
+          },
+          {
+            "id": 132680,
+            "dynamic_topic_id": 63490,
+            "name": "To come with reports"
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 129829,
+            "standard_medicine_id": 94719,
+            "medicine_name": "MAGNUS NUTRITION GAIN FAST POWDER CHOCOLATE BLAST",
+            "medicine_type": "POW"
+          },
+          {
+            "id": 129830,
+            "standard_medicine_id": 94721,
+            "medicine_name": "LONARD 250MG TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles., To come with reports",
+        "Diagnosis": [
+          {
+            "id": 132677,
+            "dynamic_topic_id": 63488,
+            "name": "IHD"
+          },
+          {
+            "id": 132678,
+            "dynamic_topic_id": 63486,
+            "name": "ILD (UIP PATTERN)"
+          }
+        ]
+      },
+      {
+        "id": 54400,
+        "Complains/Symptoms": [
+          {
+            "id": 132897,
+            "dynamic_topic_id": 63304,
+            "name": "Fever with rigor"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 129871,
+            "standard_medicine_id": 94719,
+            "medicine_name": "MAGNUS NUTRITION GAIN FAST POWDER CHOCOLATE BLAST",
+            "medicine_type": "POW"
+          },
+          {
+            "id": 129872,
+            "standard_medicine_id": 94721,
+            "medicine_name": "LONARD 250MG TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 132898,
+            "dynamic_topic_id": 63486,
+            "name": "ILD (UIP PATTERN)"
+          },
+          {
+            "id": 132899,
+            "dynamic_topic_id": 63488,
+            "name": "IHD"
+          }
+        ]
+      },
+      {
+        "id": 54409,
+        "Complains/Symptoms": [
+          {
+            "id": 132883,
+            "dynamic_topic_id": 63303,
+            "name": "Stomatitis"
+          },
+          {
+            "id": 132884,
+            "dynamic_topic_id": 63317,
+            "name": "Difficulty in closing left eye"
+          },
+          {
+            "id": 132888,
+            "dynamic_topic_id": 63290,
+            "name": "Cough with whitish expectoration"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 132885,
+            "dynamic_topic_id": 63490,
+            "name": "To come with reports"
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 129860,
+            "standard_medicine_id": 94722,
+            "medicine_name": "SWADESHI NEEM GILOY RAS",
+            "medicine_type": "LIQ"
+          },
+          {
+            "id": 129861,
+            "standard_medicine_id": 94720,
+            "medicine_name": "QSIRI-L TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 129862,
+            "standard_medicine_id": 94723,
+            "medicine_name": "AMWAY NUTRILITE DAILY MULTIVITAMIN 120 TABLET WITH PROTEIN POWDER 1KG",
+            "medicine_type": "KIT"
+          }
+        ],
+        "notes": "To come with reports",
+        "Diagnosis": [
+          {
+            "id": 132887,
+            "dynamic_topic_id": 63489,
+            "name": "MIGRAINE"
+          }
+        ]
+      },
+      {
+        "id": 54450,
+        "Complains/Symptoms": [
+          {
+            "id": 132915,
+            "dynamic_topic_id": 63290,
+            "name": "Cough with whitish expectoration"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 132916,
+            "dynamic_topic_id": 63493,
+            "name": "Drinke more water."
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 129874,
+            "standard_medicine_id": 94723,
+            "medicine_name": "AMWAY NUTRILITE DAILY MULTIVITAMIN 120 TABLET WITH PROTEIN POWDER 1KG",
+            "medicine_type": "KIT"
+          }
+        ],
+        "notes": "Drinke more water.",
+        "Diagnosis": []
+      },
+      {
+        "id": 55762,
+        "Complains/Symptoms": [
+          {
+            "id": 136701,
+            "dynamic_topic_id": 63305,
+            "name": "Shoulder, neck & arm"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 56625,
+        "Complains/Symptoms": [
+          {
+            "id": 142956,
+            "dynamic_topic_id": 63317,
+            "name": "Difficulty in closing left eye"
+          },
+          {
+            "id": 142959,
+            "dynamic_topic_id": 63303,
+            "name": "Stomatitis"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 142960,
+            "dynamic_topic_id": 63490,
+            "name": "To come with reports"
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 140952,
+            "standard_medicine_id": 94721,
+            "medicine_name": "LONARD 250MG TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 140953,
+            "standard_medicine_id": 94722,
+            "medicine_name": "SWADESHI NEEM GILOY RAS",
+            "medicine_type": "LIQ"
+          }
+        ],
+        "notes": "To come with reports",
+        "Diagnosis": [
+          {
+            "id": 142958,
+            "dynamic_topic_id": 63485,
+            "name": "Cvstroke"
+          }
+        ]
+      },
+      {
+        "id": 56631,
+        "Complains/Symptoms": [
+          {
+            "id": 142966,
+            "dynamic_topic_id": 63274,
+            "name": "Bodyache"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 140954,
+            "standard_medicine_id": 94721,
+            "medicine_name": "LONARD 250MG TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 140955,
+            "standard_medicine_id": 94722,
+            "medicine_name": "SWADESHI NEEM GILOY RAS",
+            "medicine_type": "LIQ"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 142967,
+            "dynamic_topic_id": 63485,
+            "name": "Cvstroke"
+          }
+        ]
+      },
+      {
+        "id": 56667,
+        "Complains/Symptoms": [
+          {
+            "id": 142974,
+            "dynamic_topic_id": 63283,
+            "name": "Vomiting"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 142975,
+            "dynamic_topic_id": 63490,
+            "name": "To come with reports"
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 141065,
+            "standard_medicine_id": 94722,
+            "medicine_name": "SWADESHI NEEM GILOY RAS",
+            "medicine_type": "LIQ"
+          },
+          {
+            "id": 141066,
+            "standard_medicine_id": 94720,
+            "medicine_name": "QSIRI-L TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 141067,
+            "standard_medicine_id": 94722,
+            "medicine_name": "SWADESHI NEEM GILOY RAS",
+            "medicine_type": "LIQ"
+          }
+        ],
+        "notes": "To come with reports",
+        "Diagnosis": []
+      },
+      {
+        "id": 56725,
+        "Complains/Symptoms": [
+          {
+            "id": 143063,
+            "dynamic_topic_id": 63317,
+            "name": "Difficulty in closing left eye"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 141197,
+            "standard_medicine_id": 94721,
+            "medicine_name": "LONARD 250MG TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 56749,
+        "Complains/Symptoms": [
+          {
+            "id": 143107,
+            "dynamic_topic_id": 63273,
+            "name": "Headache"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 143109,
+            "dynamic_topic_id": 63490,
+            "name": "To come with reports"
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 141277,
+            "standard_medicine_id": 129542,
+            "medicine_name": "BAIDYANATH SEPTRIC TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 141278,
+            "standard_medicine_id": 94720,
+            "medicine_name": "QSIRI-L TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 141279,
+            "standard_medicine_id": 94721,
+            "medicine_name": "LONARD 250MG TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "To come with reports",
+        "Diagnosis": []
+      },
+      {
+        "id": 56792,
+        "Complains/Symptoms": [
+          {
+            "id": 143318,
+            "dynamic_topic_id": 63272,
+            "name": "Fever"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 143317,
+            "dynamic_topic_id": 63526,
+            "name": "Advised to consult surgeon doctor."
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 141393,
+            "standard_medicine_id": 94719,
+            "medicine_name": "MAGNUS NUTRITION GAIN FAST POWDER CHOCOLATE BLAST",
+            "medicine_type": "POW"
+          },
+          {
+            "id": 141394,
+            "standard_medicine_id": 94722,
+            "medicine_name": "SWADESHI NEEM GILOY RAS",
+            "medicine_type": "LIQ"
+          }
+        ],
+        "notes": "Advised to consult surgeon doctor.",
+        "Diagnosis": []
+      },
+      {
+        "id": 56808,
+        "Complains/Symptoms": [
+          {
+            "id": 143277,
+            "dynamic_topic_id": 63319,
+            "name": "Watering from left eye"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 141351,
+            "standard_medicine_id": 94723,
+            "medicine_name": "AMWAY NUTRILITE DAILY MULTIVITAMIN 120 TABLET WITH PROTEIN POWDER 1KG",
+            "medicine_type": "KIT"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 56836,
+        "Complains/Symptoms": [
+          {
+            "id": 143325,
+            "dynamic_topic_id": 63304,
+            "name": "Fever with rigor"
+          },
+          {
+            "id": 143326,
+            "dynamic_topic_id": 63289,
+            "name": "Backache"
+          },
+          {
+            "id": 143329,
+            "dynamic_topic_id": 63305,
+            "name": "Shoulder, neck & arm"
+          },
+          {
+            "id": 143330,
+            "dynamic_topic_id": 63299,
+            "name": "Difficulty in passing urine"
+          },
+          {
+            "id": 143331,
+            "dynamic_topic_id": 63318,
+            "name": "Drooping of left angle of mouth"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 143328,
+            "dynamic_topic_id": 63496,
+            "name": "Eat less oily-chili-spicy food items. do not eat outside food."
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 141414,
+            "standard_medicine_id": 94722,
+            "medicine_name": "SWADESHI NEEM GILOY RAS",
+            "medicine_type": "LIQ"
+          },
+          {
+            "id": 141415,
+            "standard_medicine_id": 94720,
+            "medicine_name": "QSIRI-L TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 141416,
+            "standard_medicine_id": 94723,
+            "medicine_name": "AMWAY NUTRILITE DAILY MULTIVITAMIN 120 TABLET WITH PROTEIN POWDER 1KG",
+            "medicine_type": "KIT"
+          },
+          {
+            "id": 141417,
+            "standard_medicine_id": 94721,
+            "medicine_name": "LONARD 250MG TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "Eat less oily-chili-spicy food items. do not eat outside food.",
+        "Diagnosis": []
+      },
+      {
+        "id": 56849,
+        "Complains/Symptoms": [
+          {
+            "id": 143338,
+            "dynamic_topic_id": 63305,
+            "name": "Shoulder, neck & arm"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 143339,
+            "dynamic_topic_id": 63490,
+            "name": "To come with reports"
+          }
+        ],
+        "Prescription/Rx": [],
+        "notes": "To come with reports",
+        "Diagnosis": []
+      },
+      {
+        "id": 56888,
+        "Complains/Symptoms": [
+          {
+            "id": 143359,
+            "dynamic_topic_id": 63279,
+            "name": "Gen. weakness"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 143362,
+            "dynamic_topic_id": 63492,
+            "name": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles."
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 141425,
+            "standard_medicine_id": 94722,
+            "medicine_name": "SWADESHI NEEM GILOY RAS",
+            "medicine_type": "LIQ"
+          },
+          {
+            "id": 141426,
+            "standard_medicine_id": 94720,
+            "medicine_name": "QSIRI-L TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "No sugar - no sweet in diet. to take rice & potato in less amount. to avoid fasting and meal skipping. to walk 3-4 km  / day. take sugar or glucose if you feel giddy - tremor - perspiration (hypoglycemia). restrict salted and oily (ghee-butter-oil) food beverages - no papad - no pickles.",
+        "Diagnosis": []
+      },
+      {
+        "id": 56890,
+        "Complains/Symptoms": [
+          {
+            "id": 143364,
+            "dynamic_topic_id": 63317,
+            "name": "Difficulty in closing left eye"
+          },
+          {
+            "id": 143365,
+            "dynamic_topic_id": 63303,
+            "name": "Stomatitis"
+          },
+          {
+            "id": 143366,
+            "dynamic_topic_id": 63305,
+            "name": "Shoulder, neck & arm"
+          },
+          {
+            "id": 143367,
+            "dynamic_topic_id": 63277,
+            "name": "Frequency of stool"
+          },
+          {
+            "id": 143368,
+            "dynamic_topic_id": 63278,
+            "name": "Anorexia"
+          },
+          {
+            "id": 143369,
+            "dynamic_topic_id": 63309,
+            "name": "Throat pain"
+          },
+          {
+            "id": 143370,
+            "dynamic_topic_id": 63290,
+            "name": "Cough with whitish expectoration"
+          },
+          {
+            "id": 143371,
+            "dynamic_topic_id": 63318,
+            "name": "Drooping of left angle of mouth"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 143381,
+            "dynamic_topic_id": 63525,
+            "name": "Advised to stop addiction."
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 141427,
+            "standard_medicine_id": 94721,
+            "medicine_name": "LONARD 250MG TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "Advised to stop addiction.",
+        "Diagnosis": [
+          {
+            "id": 143376,
+            "dynamic_topic_id": 63486,
+            "name": "ILD (UIP PATTERN)"
+          },
+          {
+            "id": 143377,
+            "dynamic_topic_id": 63488,
+            "name": "IHD"
+          },
+          {
+            "id": 143378,
+            "dynamic_topic_id": 63489,
+            "name": "MIGRAINE"
+          },
+          {
+            "id": 143379,
+            "dynamic_topic_id": 63487,
+            "name": "HYPERTENSION"
+          },
+          {
+            "id": 143380,
+            "dynamic_topic_id": 63485,
+            "name": "Cvstroke"
+          }
+        ]
+      },
+      {
+        "id": 56898,
+        "Complains/Symptoms": [
+          {
+            "id": 143383,
+            "dynamic_topic_id": 63277,
+            "name": "Frequency of stool"
+          },
+          {
+            "id": 143384,
+            "dynamic_topic_id": 63290,
+            "name": "Cough with whitish expectoration"
+          },
+          {
+            "id": 143385,
+            "dynamic_topic_id": 63319,
+            "name": "Watering from left eye"
+          },
+          {
+            "id": 143389,
+            "dynamic_topic_id": 63317,
+            "name": "Difficulty in closing left eye"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 143394,
+            "dynamic_topic_id": 63490,
+            "name": "To come with reports"
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 141431,
+            "standard_medicine_id": 94721,
+            "medicine_name": "LONARD 250MG TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "To come with reports",
+        "Diagnosis": [
+          {
+            "id": 143392,
+            "dynamic_topic_id": 63489,
+            "name": "MIGRAINE"
+          },
+          {
+            "id": 143393,
+            "dynamic_topic_id": 63487,
+            "name": "HYPERTENSION"
+          }
+        ]
+      },
+      {
+        "id": 56899,
+        "Complains/Symptoms": [
+          {
+            "id": 143395,
+            "dynamic_topic_id": 63279,
+            "name": "Gen. weakness"
+          },
+          {
+            "id": 143396,
+            "dynamic_topic_id": 63285,
+            "name": "Running nose"
+          },
+          {
+            "id": 143398,
+            "dynamic_topic_id": 63284,
+            "name": "Cough"
+          },
+          {
+            "id": 143399,
+            "dynamic_topic_id": 63300,
+            "name": "Easy fatigue"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 56919,
+        "Complains/Symptoms": [
+          {
+            "id": 143431,
+            "dynamic_topic_id": 63274,
+            "name": "Bodyache"
+          },
+          {
+            "id": 143432,
+            "dynamic_topic_id": 63319,
+            "name": "Watering from left eye"
+          },
+          {
+            "id": 143433,
+            "dynamic_topic_id": 63305,
+            "name": "Shoulder, neck & arm"
+          },
+          {
+            "id": 143434,
+            "dynamic_topic_id": 63309,
+            "name": "Throat pain"
+          },
+          {
+            "id": 143437,
+            "dynamic_topic_id": 63318,
+            "name": "Drooping of left angle of mouth"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 143436,
+            "dynamic_topic_id": 63490,
+            "name": "To come with reports"
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 141439,
+            "standard_medicine_id": 94720,
+            "medicine_name": "QSIRI-L TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 141440,
+            "standard_medicine_id": 129542,
+            "medicine_name": "BAIDYANATH SEPTRIC TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 141441,
+            "standard_medicine_id": 94721,
+            "medicine_name": "LONARD 250MG TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "To come with reports",
+        "Diagnosis": [
+          {
+            "id": 143435,
+            "dynamic_topic_id": 63489,
+            "name": "MIGRAINE"
+          }
+        ]
+      },
+      {
+        "id": 56955,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 141443,
+            "standard_medicine_id": 94721,
+            "medicine_name": "LONARD 250MG TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 141444,
+            "standard_medicine_id": 94720,
+            "medicine_name": "QSIRI-L TABLET",
+            "medicine_type": "TAB"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 143469,
+            "dynamic_topic_id": 63489,
+            "name": "MIGRAINE"
+          },
+          {
+            "id": 143470,
+            "dynamic_topic_id": 63487,
+            "name": "HYPERTENSION"
+          }
+        ]
+      },
+      {
+        "id": 57037,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 142233,
+            "standard_medicine_id": 94721,
+            "medicine_name": "LONARD 250MG TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 142234,
+            "standard_medicine_id": 94722,
+            "medicine_name": "SWADESHI NEEM GILOY RAS",
+            "medicine_type": "LIQ"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 57299,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 142226,
+            "standard_medicine_id": 94721,
+            "medicine_name": "LONARD 250MG TABLET",
+            "medicine_type": "TAB"
+          },
+          {
+            "id": 142227,
+            "standard_medicine_id": 94719,
+            "medicine_name": "MAGNUS NUTRITION GAIN FAST POWDER CHOCOLATE BLAST",
+            "medicine_type": "POW"
+          },
+          {
+            "id": 142228,
+            "standard_medicine_id": 94722,
+            "medicine_name": "SWADESHI NEEM GILOY RAS",
+            "medicine_type": "LIQ"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 57362,
+        "Complains/Symptoms": [],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 142304,
+            "standard_medicine_id": 94722,
+            "medicine_name": "SWADESHI NEEM GILOY RAS",
+            "medicine_type": "LIQ"
+          },
+          {
+            "id": 142305,
+            "standard_medicine_id": 94722,
+            "medicine_name": "SWADESHI NEEM GILOY RAS",
+            "medicine_type": "LIQ"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 59137,
+        "Complains/Symptoms": [
+          {
+            "id": 148574,
+            "dynamic_topic_id": 63317,
+            "name": "Difficulty in closing left eye"
+          },
+          {
+            "id": 148577,
+            "dynamic_topic_id": 63318,
+            "name": "Drooping of left angle of mouth"
+          }
+        ],
+        "General Advice": [
+          {
+            "id": 148578,
+            "dynamic_topic_id": 63490,
+            "name": "To come with reports"
+          }
+        ],
+        "Prescription/Rx": [
+          {
+            "id": 144495,
+            "standard_medicine_id": 129494,
+            "medicine_name": "COMPLAN REFILL POWDER CHOCOLATE",
+            "medicine_type": "POW"
+          }
+        ],
+        "notes": "To come with reports",
+        "Diagnosis": [
+          {
+            "id": 148576,
+            "dynamic_topic_id": 63487,
+            "name": "HYPERTENSION"
+          }
+        ]
+      },
+      {
+        "id": 59140,
+        "Complains/Symptoms": [
+          {
+            "id": 148579,
+            "dynamic_topic_id": 63304,
+            "name": "Fever with rigor"
+          },
+          {
+            "id": 148581,
+            "dynamic_topic_id": 63309,
+            "name": "Throat pain"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [
+          {
+            "id": 144496,
+            "standard_medicine_id": 129494,
+            "medicine_name": "COMPLAN REFILL POWDER CHOCOLATE",
+            "medicine_type": "POW"
+          }
+        ],
+        "notes": "",
+        "Diagnosis": [
+          {
+            "id": 148580,
+            "dynamic_topic_id": 63487,
+            "name": "HYPERTENSION"
+          }
+        ]
+      },
+      {
+        "id": 61179,
+        "Complains/Symptoms": [
+          {
+            "id": 152210,
+            "dynamic_topic_id": 63283,
+            "name": "Vomiting"
+          },
+          {
+            "id": 152211,
+            "dynamic_topic_id": 63299,
+            "name": "Difficulty in passing urine"
+          },
+          {
+            "id": 152212,
+            "dynamic_topic_id": 63290,
+            "name": "Cough with whitish expectoration"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 61180,
+        "Complains/Symptoms": [
+          {
+            "id": 152213,
+            "dynamic_topic_id": 63285,
+            "name": "Running nose"
+          },
+          {
+            "id": 152214,
+            "dynamic_topic_id": 63303,
+            "name": "Stomatitis"
+          },
+          {
+            "id": 152215,
+            "dynamic_topic_id": 63277,
+            "name": "Frequency of stool"
+          },
+          {
+            "id": 152216,
+            "dynamic_topic_id": 63310,
+            "name": "Gabharaman"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 61182,
+        "Complains/Symptoms": [
+          {
+            "id": 152217,
+            "dynamic_topic_id": 63314,
+            "name": "Numbness of limbs"
+          },
+          {
+            "id": 152218,
+            "dynamic_topic_id": 63291,
+            "name": "Nasal blockage"
+          },
+          {
+            "id": 152219,
+            "dynamic_topic_id": 63302,
+            "name": "Cough with yellowish expectoration"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 61196,
+        "Complains/Symptoms": [
+          {
+            "id": 152222,
+            "dynamic_topic_id": 63310,
+            "name": "Gabharaman"
+          },
+          {
+            "id": 152223,
+            "dynamic_topic_id": 63319,
+            "name": "Watering from left eye"
+          },
+          {
+            "id": 152224,
+            "dynamic_topic_id": 63289,
+            "name": "Backache"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": []
+      },
+      {
+        "id": 61199,
+        "Complains/Symptoms": [
+          {
+            "id": 152225,
+            "dynamic_topic_id": 63279,
+            "name": "Gen. weakness"
+          }
+        ],
+        "General Advice": [],
+        "Prescription/Rx": [],
+        "notes": "",
+        "Diagnosis": []
+      }
+    ]
+  }
+}
